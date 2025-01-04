@@ -1,8 +1,9 @@
 
+
 export default function page() {
   return (
     <div>
-      this is page
+      Go to /admin
     </div>
   )
 }
